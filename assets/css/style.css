@@ -31,7 +31,13 @@ body{
     justify-content: center;
     background-color: rgb(8, 19, 41);
     color: white;
-    font-family: "Open Sans", sans-serif;
+    font-family: "Concert One", sans-serif;
+}
+.content p{
+    font-size: 1em;
+}
+.content h3 {
+    font-size: 2em;
 }
 .a1{
     animation: a1 2s linear infinite;
@@ -79,10 +85,10 @@ body{
 .section{
     background-color: rgb(8, 19, 41);
     color: white;
-    font-family: "Open Sans", sans-serif;
+    font-family: "Caveat", cursive;
 }
 .section p{
     color: white;
-    font-family: "Open Sans", sans-serif;
+    font-family: "Caveat", cursive;
     text-align: justify;
 }
